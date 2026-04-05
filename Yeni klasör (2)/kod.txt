@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bağlantılarım</title>
+</head>
+
+<body style="font-family: Arial; text-align: center; background-color: #f4f4f4; padding: 40px;">
+
+  <h1>Bağlantılarım</h1>
+
+  <!-- Instagram -->
+  <p>
+    <a href="https://instagram.com/baytek3d" target="_blank">
+      Instagram
+    </a>
+  </p>
+
+  <!-- WhatsApp -->
+  <p>
+    <a href="https://wa.me/905394891269" target="_blank">
+      WhatsApp
+    </a>
+  </p>
+
+  <!-- IBAN -->
+  <p>
+    <strong>IBAN:</strong><br>
+    TR64 0015 7000 0000 0119 6251 86
+  </p>
+
+</body>
+</html>
